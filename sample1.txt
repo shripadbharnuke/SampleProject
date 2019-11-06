@@ -1,2 +1,6 @@
 This is for testing purpose.
+<<<<<<< HEAD
 Changed from CLI
+=======
+I changed file
+>>>>>>> 874a8dcab776e70259d5c35e5cda6682dff4f0af
